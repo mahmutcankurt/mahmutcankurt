@@ -30,7 +30,7 @@
 
   
 </p>
-<p align="right">
+<p align="left">
   <a href="https://github.com/mahmutcankurt/?tab=follow">
     <img src="https://img.shields.io/github/followers/mahmutcankurt?label=GitHub&style=social" />
   </a>
