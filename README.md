@@ -24,9 +24,7 @@
     <img src="https://img.shields.io/badge/My%20Personal-LinkedIn-blue" />
   </a>
   
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=mahmutcankurt" />
+
 
   
 </p>
@@ -40,7 +38,7 @@
     <img src="https://img.shields.io/twitter/follow/mahmutexe?label=Twitter&style=social" />
   </a>
 </p>
-
+<p><img src="https://komarev.com/ghpvc/?username=mahmutcankurt" /></p>
 <br>
 
 :rocket: Skills: <strong>Python | TensorFlow | Android | Java | PyTorch | Django | C/C++ | C# | Flutter | React Native.</strong> <br>
