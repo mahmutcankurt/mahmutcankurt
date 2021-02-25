@@ -35,5 +35,5 @@
 <br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=mahmutcankurt&show_icons=true&theme=radical"
+  src="https://github-readme-stats.vercel.app/api?username=mahmutcankurt&show_icons=true&theme=tokyonight"
 />
