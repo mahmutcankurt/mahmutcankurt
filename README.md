@@ -1,4 +1,4 @@
-## Hi There, I'm Mahmut Can Kurt.
+## Hi there, I'm Mahmut Can Kurt.
 
 <p align="left">
   
