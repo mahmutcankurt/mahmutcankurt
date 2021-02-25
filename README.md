@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue" />
   </a>
   <a href="https://github.com/mahmutcankurt/?tab=follow">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on-GitHub-lightgrey" />
+    <img src="https://img.shields.io/github/followers/mahmutcankurt?label=Follow&style=social" />
   </a>
 </p>
 
