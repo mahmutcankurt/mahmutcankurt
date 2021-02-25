@@ -8,11 +8,13 @@
   
   <br>
   <a href="mailto:is.mahmutcankurt@gmail.com">
-    <img src="https://img.shields.io/badge/-Mail%20Me-red" />
+    <img src="https://img.shields.io/badge/My%20Personal-Mail-red" />
   </a>
       
+  <br>
+  
   <a href="https://www.linkedin.com/in/mahmutcankurt">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue" />
+    <img src="https://img.shields.io/badge/My%20Personal-LinkedIn-blue" />
   </a>
   
   <br>
