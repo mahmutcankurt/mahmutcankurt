@@ -2,7 +2,7 @@
 
 <p align="left">
   
-   <a href="https:mahmutcankurt.github.io">
+   <a href="https://mahmutcankurt.github.io">
     <img src="https://img.shields.io/badge/My%20Personal-Website-yellowgreen" />
   </a>
   
