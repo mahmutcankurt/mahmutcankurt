@@ -6,7 +6,14 @@
     <img src="https://img.shields.io/badge/My%20Personal-Website-yellowgreen" />
   </a>
   
+  <br>  
+  
+  <a href="https://mahmutcankurt.github.io/assets/resume.pdf">
+    <img src="https://img.shields.io/badge/My%20Personal-Resume-yellow" />
+  </a>
+  
   <br>
+  
   <a href="mailto:is.mahmutcankurt@gmail.com">
     <img src="https://img.shields.io/badge/My%20Personal-Mail-red" />
   </a>
