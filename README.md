@@ -17,9 +17,8 @@
   <a href="https://github.com/mahmutcankurt/?tab=follow">
     <img src="https://img.shields.io/github/followers/mahmutcankurt?label=Follow&style=social" />
   </a>
-
+  <img src="https://komarev.com/ghpvc/?username=mahmutcankurt" />
 </p>
-<p><img src="https://komarev.com/ghpvc/?username=mahmutcankurt" /></p>
 
 <br>
 
