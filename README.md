@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="mailto:is.mahmutcankurt@gmail.com">
-    <img src="https://www.pngkey.com/png/full/394-3944779_yahoo-mail-logo-png-logo-yahoo-mail-png.png", width=100 height=100 />
+    <img src="https://img.shields.io/badge/-Mail%20Me-blue" />
   </a>
   <a href="https://www.linkedin.com/in/mahmutcankurt">
     <img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png", width=100 height=100 />
