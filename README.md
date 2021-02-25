@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="mailto:is.mahmutcankurt@gmail.com">
-    <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com" />
+    <img src="https://iconape.com/wp-content/png_logo_vector/social-media-35.png" />
   </a>
   <a href="https://www.linkedin.com/in/mahmutcankurt">
     <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
