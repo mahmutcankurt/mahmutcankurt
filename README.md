@@ -13,11 +13,11 @@
   <br>
   
   <a href="https://twitter.com/mahmutexe">
-    <img src="https://img.shields.io/twitter/url?style=social&url=mahmutexe" />
+    <img src="https://img.shields.io/twitter/follow/mahmutexe?label=Twitter&style=social" />
   </a>
   
   <a href="https://github.com/mahmutcankurt/?tab=follow">
-    <img src="https://img.shields.io/github/followers/mahmutcankurt?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/mahmutcankurt?label=GitHub&style=social" />
   </a>
   
   <br>
