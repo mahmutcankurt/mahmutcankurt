@@ -28,7 +28,7 @@
 
 <br>
 
-- :rocket: Skills: <strong>PyCharm | TensorFlow | Django | C/C++ | C# | Flutter | React Native.</strong>
+- :rocket: Skills: <strong>Python | TensorFlow | Django | C/C++ | C# | Flutter | React Native.</strong>
 - :mortar_board: Studying: <strong>Computer Science</strong>.
 - :briefcase: I'm working on Scientific Research for Artificial Intelligence.
 
