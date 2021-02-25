@@ -13,7 +13,7 @@
   <br>
   
   <a href="https://twitter.com/mahmutexe">
-    <img src="https://img.shields.io/twitter/follow/mahmutexe?label=Twitter&style=social" />
+    <img src="https://img.shields.io/twitter/url?style=social&url=mahmutexe" />
   </a>
   
   <a href="https://github.com/mahmutcankurt/?tab=follow">
