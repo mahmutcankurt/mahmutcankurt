@@ -1,6 +1,3 @@
-
-
-
 # Mahmut Can Kurt
 
 <p align="left">
@@ -24,7 +21,6 @@
 <br>
 
 <img
-  align="left"
-  height="165"
+  align="right"
   src="https://github-readme-stats.vercel.app/api?username=mahmutcankurt&show_icons=true&theme=radical"
 />
