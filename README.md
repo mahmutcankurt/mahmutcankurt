@@ -3,8 +3,6 @@
 
 # Mahmut Can Kurt
 
-<img align="right" width="300px" src="./bio-image.svg" />
-
 <p align="left">
   <a href="mailto:is.mahmutcankurt@gmail.com">
     <img src="https://www.pngkey.com/png/full/394-3944779_yahoo-mail-logo-png-logo-yahoo-mail-png.png", width=100 height=100 />
