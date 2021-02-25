@@ -1,18 +1,5 @@
 
-<!--
-**mahmutcankurt/mahmutcankurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # Mahmut Can Kurt
 
@@ -23,7 +10,7 @@ Here are some ideas to get you started:
     <img src="https://www.pngkey.com/png/full/394-3944779_yahoo-mail-logo-png-logo-yahoo-mail-png.png", width=100 height=100 />
   </a>
   <a href="https://www.linkedin.com/in/mahmutcankurt">
-    <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
+    <img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png", width=100 height=100 />
   </a>
   <a href="https://github.com/mahmutcankurt/?tab=follow">
     <img src="https://img.shields.io/github/followers/martins-rafael?label=Follow&style=social" />
