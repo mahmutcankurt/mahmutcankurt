@@ -32,10 +32,6 @@
     <img src="https://img.shields.io/github/followers/mahmutcankurt?label=GitHub&style=social" />
   </a>
   
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=mahmutcankurt" />
-  
 </p>
 
 <br>
