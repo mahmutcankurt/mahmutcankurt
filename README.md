@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mahmutcankurt/mahmutcankurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="mailto:is.mahmutcankurt@gmail.com">
-    <img src="https://iconape.com/wp-content/png_logo_vector/social-media-35.png" />
+    <img src="https://iconape.com/wp-content/png_logo_vector/social-media-35.png", width=100 height=100 />
   </a>
   <a href="https://www.linkedin.com/in/mahmutcankurt">
     <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
