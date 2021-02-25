@@ -9,7 +9,9 @@
   <a href="https://www.linkedin.com/in/mahmutcankurt">
     <img src="https://img.shields.io/badge/-LinkedIn-blue" />
   </a>
+  
   <br>
+  
   <a href="https://twitter.com/mahmutexe">
     <img src="https://img.shields.io/twitter/follow/mahmutexe?label=Twitter&style=social" />
   </a>
@@ -17,7 +19,11 @@
   <a href="https://github.com/mahmutcankurt/?tab=follow">
     <img src="https://img.shields.io/github/followers/mahmutcankurt?label=Follow&style=social" />
   </a>
+  
+  <br>
+  
   <img src="https://komarev.com/ghpvc/?username=mahmutcankurt" />
+  
 </p>
 
 <br>
