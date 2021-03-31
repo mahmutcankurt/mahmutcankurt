@@ -33,10 +33,7 @@
     <img src="https://img.shields.io/github/followers/mahmutcankurt?label=GitHub&style=social" />
   </a>
   
-  
-  <a href="https://twitter.com/mahmutexe">
-    <img src="https://img.shields.io/twitter/follow/mahmutexe?label=Twitter&style=social" />
-  </a>
+
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mahmutcankurt" /></p>
 <br>
