@@ -41,7 +41,7 @@
 :rocket: Skills: <strong>Python | TensorFlow | Android | Java | PyTorch | Django | C/C++ | C# | Flutter | React Native.</strong> <br>
 :brain: Knowledge: <strong>Artificial Intelligence | Image Processing | ML/DL | Algorithm Analysis | Data Structures | APIs.</strong> <br>
 :mortar_board: Studying: <strong>Computer Science.</strong> <br>
-:briefcase: I'm working on <strong>Scientific Research</strong> for <strong>Artificial Intelligence.</strong><br>
+:briefcase: I'm working on <strong>Scientific Studies</strong> for <strong>Artificial Intelligence.</strong><br>
 
 <br>
 
