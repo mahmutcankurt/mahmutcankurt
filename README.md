@@ -23,24 +23,26 @@
   <a href="https://www.linkedin.com/in/mahmutcankurt">
     <img src="https://img.shields.io/badge/My%20Personal-LinkedIn-blue" />
   </a>
-  
 
-
+  <br>
   
-</p>
-<p align="left">
+  <a href="https://gitlab.com/users/mahmutcankurt/">
+    <img src="https://img.shields.io/badge/My%20Personal-GitLab-orange" />
+  </a>
+
+  <br>
+  
   <a href="https://github.com/mahmutcankurt/?tab=follow">
     <img src="https://img.shields.io/github/followers/mahmutcankurt?label=GitHub&style=social" />
   </a>
-  
-
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mahmutcankurt" /></p>
 <br>
 
 :rocket: Skills: <strong>Python | TensorFlow | Android | Java | PyTorch | Django | C/C++ | C# | Flutter | React Native.</strong> <br>
-:brain: Knowledge: <strong>Artificial Intelligence | Image Processing | ML/DL | Algorithm Analysis | Data Structures | APIs.</strong> <br>
-:mortar_board: Studying: <strong>Computer Science.</strong> <br>
+:muscle: Knowledge: <strong>Artificial Intelligence | Image Processing | ML/DL | Algorithm Analysis | Data Structures | APIs.</strong> <br>
+:mortar_board: Graduated: <strong>Computer Science.</strong> <br>
+:desktop_computer: Working as: <strong>Artificial Intelligence Engineer.</strong> <br>
 :briefcase: I'm working on <strong>Scientific Studies</strong> for <strong>Artificial Intelligence.</strong><br>
 
 <br>
