@@ -5,7 +5,7 @@ Backend Developer
 -----------------
 
 * 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [GitHub](http://github.com/mahmutcankurt)
+* 🖥️  See my portfolio on [My Site](https://mahmutcankurt.github.io/)
 * ✉️  You can contact me at [is.mahmutcankurt@gmail.com](mailto:is.mahmutcankurt@gmail.com)
 * 🧠  I'm learning Cloud Computing
 
